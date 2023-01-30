@@ -1,0 +1,29 @@
+{
+  "name": "@ai-chua/pigeon",
+  "version": "0.0.0",
+  "description": "pigeon gives you a random string when provided a number",
+  "author": "Ailin Chua <ai-chua@outlook.com>",
+  "homepage": "https://github.com/ai-chua/silly-glass#readme",
+  "license": "ISC",
+  "main": "lib/pigeon.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-chua/silly-glass.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/pigeon.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ai-chua/silly-glass/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

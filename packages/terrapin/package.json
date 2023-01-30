@@ -1,0 +1,29 @@
+{
+  "name": "@ai-chua/terrapin",
+  "version": "0.0.0",
+  "description": "terrapin gives you a random number",
+  "author": "Ailin Chua <ai-chua@outlook.com>",
+  "homepage": "https://github.com/ai-chua/silly-glass#readme",
+  "license": "ISC",
+  "main": "lib/terrapin.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-chua/silly-glass.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/terrapin.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ai-chua/silly-glass/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
