@@ -1,6 +1,6 @@
 {
   "name": "@ai-chua/pigeon",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "pigeon gives you a random string when provided a number",
   "author": "Ailin Chua <ai-chua@outlook.com>",
   "homepage": "https://github.com/ai-chua/silly-glass#readme",
